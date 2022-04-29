@@ -1,0 +1,41 @@
+.fish{
+  font-family: 'Raleway';
+  background: url(../img/fish/buildings.png);
+  padding: 180px 0 ;
+}
+
+
+
+.fish__text {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+
+.fish__content {
+  display: flex;
+}
+  
+
+.fish__left {
+  max-width: 535px;
+  margin-right: 30px;
+}
+
+.fish__left {
+  margin-right: 36px;
+}
+
+.fish__input {
+  margin-bottom: 35px;
+  color: #BEBEBE;
+}
+
+.fish__right{
+  margin-top: 80px;
+}
+
+
+  
+
+

@@ -1,0 +1,31 @@
+.rooms{
+    margin-top: 120px;
+}
+
+
+.rooms__sector{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-family: 'Raleway';
+    
+
+}
+
+.rooms__item--position{
+    position: relative;
+}
+
+.rooms__one__name--position,
+.rooms__two__name--position,
+.rooms__three__name--position,
+.rooms__four__name--position{
+    font-size: 24px;
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    margin: 0;
+   
+  
+}
